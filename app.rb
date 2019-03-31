@@ -1,8 +1,8 @@
 require 'sinatra'
 class App < Sinatra::Base
 
-  get '/' do 
-    "Hello, world!"
+  get '/' do
+    "What is UP!!... world!"
   end
 
 end
